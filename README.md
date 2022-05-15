@@ -59,7 +59,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yujianke100&show_icons=true&count_private=true&hide_border=true&theme=calm" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yujianke100&show_icons=true&count_private=true&hide_border=true&theme=calm" align="left" style="height: 100%" />
 
 </td><td valign="top" width="45%">
 
