@@ -69,18 +69,12 @@
 
 <br/>  
 
-  
+![](https://raw.githubusercontent.com/yujianke100/yujianke100/output/github-contribution-grid-snake.svg)
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=yujianke100&&style=flat-square)  
   
-
-<br/>  
-
-<br/>  
-
-![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
 
 <br/>  
 
