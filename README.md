@@ -69,7 +69,7 @@
 
 <br/>  
 
-![](https://raw.githubusercontent.com/yujianke100/yujianke100/output/github-contribution-grid-snake.svg)
+![](dist/github-contribution-grid-snake.svg)
 
 <br/>  
 
