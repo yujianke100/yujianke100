@@ -66,7 +66,14 @@
 
 ![](https://raw.githubusercontent.com/yujianke100/yujianke100/output/github-contribution-grid-snake.svg)
 
-<br/>  
+<br/>   
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=yujianke100&&style=flat-square)  
   
