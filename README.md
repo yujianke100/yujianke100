@@ -85,7 +85,7 @@
 - [论文阅读笔记：[CIKM 2021]Signed Bipartite Graph Neural Networks](https://blog.csdn.net/u013589741/article/details/122178416)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+<br>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=yujianke100&&style=flat-square)  
   
