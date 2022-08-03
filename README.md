@@ -28,9 +28,17 @@
   
 
 - [[WWWJ 2022] Bipartite graph capsule network](https://link.springer.com/article/10.1007/s11280-022-01009-2)  
+
   
+<br/>   
+
+## Internship Experience
+
+- Taobao, Alibaba Group (2021/11/18~2022/03/31.)
+- DAMO Academy, Alibaba Group (2022/07/18~.)
 
 <br/>  
+
 
 
 ## Languages and Tools  
@@ -66,14 +74,8 @@
 
 ![](https://raw.githubusercontent.com/yujianke100/yujianke100/output/github-contribution-grid-snake.svg)
 
+
 <br/>   
-
-## Internship Experience
-
-- Taobao, Alibaba Group (2021/11/18~2022/03/31.)
-- DAMO Academy, Alibaba Group (2022/07/18~.)
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [论文阅读笔记：[ICML 2022]Sublinear-Time Clustering Oracle for Signed Graphs](https://blog.csdn.net/u013589741/article/details/126058588)
@@ -83,7 +85,7 @@
 - [论文阅读笔记：[CIKM 2021]Signed Bipartite Graph Neural Networks](https://blog.csdn.net/u013589741/article/details/122178416)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=yujianke100&&style=flat-square)  
   
