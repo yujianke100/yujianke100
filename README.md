@@ -68,6 +68,11 @@
 
 <br/>   
 
+## Internship Experience
+
+- Taobao, Alibaba Group (2021/11/18~2022/03/31.)
+- DAMO Academy, Alibaba Group (2022/07/18~.)
+
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -78,7 +83,7 @@
 - [论文阅读笔记：[CIKM 2021]Signed Bipartite Graph Neural Networks](https://blog.csdn.net/u013589741/article/details/122178416)
 <!-- BLOG-POST-LIST:END -->
 
-<br
+<br>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=yujianke100&&style=flat-square)  
   
