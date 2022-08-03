@@ -20,6 +20,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # update recent blog
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "5" # 获取几条链接
+          feed_list: "https://blog.csdn.net/u013589741/rss/list"
+          
       # Generates the snake  
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
@@ -38,11 +47,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # update recent blog
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: "5" # 获取几条链接
-          feed_list: "https://blog.csdn.net/u013589741/rss/list"
+
