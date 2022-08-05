@@ -29,6 +29,25 @@ jobs:
 #         with:
 #           max_post_count: "5" # 获取几条链接
 #           feed_list: "https://blog.csdn.net/u013589741/rss/list"
+      - uses: actions/checkout@v2
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: 'Install requirements'
+        run: pip3 install feedparser 
+        
+      - name: 'Working'
+        run: python update_time_display.py
+        
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.email 734962820@qq.com
+          git config --global user.name yujianke100
+          git add README.md
+          git commit -m "Github Action Auto Updated"
+          git push
           
       # Generates the snake  
       - name: generate github-contribution-grid-snake.svg
@@ -48,24 +67,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - uses: actions/checkout@v2
-      
-      - name: 'Set up Python'
-        uses: actions/setup-python@v1
-        with:
-          python-version: 3.7
-      - name: 'Install requirements'
-        run: pip3 install feedparser 
-        
-      - name: 'Working'
-        run: python update_time_display.py
-        
-      - name: Commit and push if changed
-        run: |
-          git diff
-          git config --global user.email 734962820@qq.com
-          git config --global user.name yujianke100
-          git add README.md
-          git commit -m "Github Action Auto Updated"
-          git push
