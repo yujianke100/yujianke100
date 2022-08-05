@@ -2,9 +2,14 @@
 # import time
 import os
 import re
-import pytz
+# import pytz
 from datetime import datetime
-
+from datetime import timedelta
+from datetime import timezone
+SHA_TZ = timezone(
+    timedelta(hours=8),
+    name='Asia/Shanghai',
+)
 # def get_link_info(feed_url, num):
 #     result = ""
 #     feed = feedparser.parse(feed_url)
@@ -29,7 +34,8 @@ def main():
     # 替换 ---start--- 到 ---end--- 之间的内容
     # pytz.timezone('Asia/Shanghai')).strftime('%Y年%m月%d日%H时M分')
 #     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
-    insert_info = "## Recent Blog Posts (UTC+8 Update Time:"+  datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y/%m/%d') + " | Update by Github Actions)"
+    utc_now = datetime.utcnow().replace(tzinfo=timezone.utc)
+    insert_info = "## Recent Blog Posts (UTC+8 Update Time:"+ utc_now.astimezone(SHA_TZ).strftime('%Y-%m-%d') + " | Update by Github Actions)"
     # 获取README.md内容
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
