@@ -1,8 +1,6 @@
 import feedparser
-# import time
 import os
 import re
-# import pytz
 from datetime import datetime
 from datetime import timedelta
 from datetime import timezone
@@ -28,16 +26,9 @@ def get_link_info(feed_url, num):
     return result
     
 def main():
-#     v2fy_info =  get_link_info("https://v2fy.com/feed/", 3)
-#     fangyuanxiaozhan_info =  get_link_info("https://fangyuanxiaozhan.com/feed/", 3)
-#     insert_info = v2fy_info + fangyuanxiaozhan_info
-    # 替换 ---start--- 到 ---end--- 之间的内容
-    # pytz.timezone('Asia/Shanghai')).strftime('%Y年%m月%d日%H时M分')
-#     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
     utc_now = datetime.utcnow().replace(tzinfo=timezone.utc)
-    insert_info = "<!--BLOG_START-->\n## Recent Blog Posts\n *Update Time: "+ utc_now.astimezone(SHA_TZ).strftime('%Y-%m-%d %H:%M') + "(UTC+8) | Updated by Github Actions*\n" + get_link_info("https://blog.csdn.net/u013589741/rss/list", 5) + "<!--BLOG_END-->"
+    insert_info = "<!--BLOG_START-->\n## Recent Blog Posts\n *Update Time: "+ utc_now.astimezone(SHA_TZ).strftime('%Y-%m-%d %H:%M') + " (UTC+8) | Updated by Github Actions*\n" + get_link_info("https://blog.csdn.net/u013589741/rss/list", 5) + "<!--BLOG_END-->"
     print(insert_info)
-    # 获取README.md内容
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
     new_readme_md_content = re.sub(r'\<\!\-\-BLOG_START\-\-\>\n(.|\n)*\<\!\-\-BLOG_END\-\-\>', insert_info, readme_md_content)
