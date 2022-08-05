@@ -36,10 +36,12 @@ def main():
 #     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
     utc_now = datetime.utcnow().replace(tzinfo=timezone.utc)
     insert_info = "<!--BLOG-TITLE-START-->\n## Recent Blog Posts (UTC+8 Update Time:"+ utc_now.astimezone(SHA_TZ).strftime('%Y-%m-%d') + " | Update by Github Actions)\n--BLOG-TITLE-END--"
+    print(insert_info)
     # 获取README.md内容
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
     new_readme_md_content = re.sub(r'\<\!\-\-BLOG\-TITLE\-START\-\-\>\n(.|\n)*\<\-\-BLOG\-TITLE\-END\-\-\>', insert_info, readme_md_content)
     with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
         f.write(new_readme_md_content)
+    print('Finish insert')
 main()
