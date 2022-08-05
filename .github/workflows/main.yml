@@ -11,9 +11,11 @@ on:
   workflow_dispatch:
 
   # run on every push on the master branch
-  push:
-    branches:
-    - main
+#   push:
+#     branches:
+#     - main
+  repository_dispatch:
+    types: [update_profile]
     
 # The sequence of runs in this workflow:
 jobs:
