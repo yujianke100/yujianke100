@@ -34,11 +34,11 @@ jobs:
         uses: actions/setup-python@v1
         with:
           python-version: 3.7
-      - name: 'Install requirements'
-        run: pip3 install feedparser 
         
       - name: 'Working'
-        run: python update_time_display.py
+        run: |
+          pip3 install feedparser 
+          python3 update_time_display.py
         
       - name: Commit and push if changed
         run: |
