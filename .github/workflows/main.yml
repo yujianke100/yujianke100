@@ -48,18 +48,18 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+      
+      - uses: actions/checkout@v2
+      
       - name: 'Set up Python'
         uses: actions/setup-python@v1
         with:
           python-version: 3.7
-
+      - name: 'Install requirements'
+        run: pip3 install feedparser 
+        
       - name: 'Working'
-        run: |
-          pip3 install feedparser 
-          ls
-          pwd
-          python update_time_display.py
+        run: python update_time_display.py
         
       - name: Commit and push if changed
         run: |
