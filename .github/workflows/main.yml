@@ -54,5 +54,5 @@ jobs:
           python-version: 3.7
 
       - name: 'Working'
-        run: update_time_display.py
+        run: python update_time_display.py
 
