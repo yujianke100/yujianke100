@@ -76,7 +76,7 @@
 
 <!--BLOG-TITLE-START-->
 ## Recent Blog Posts
- *Update Time:2022-08-05(UTC+8) | Update by Github Actions*
+ *Update Time: 2022-08-05(UTC+8) | Updated by Github Actions*
 <!--BLOG-TITLE-END-->
 <!-- BLOG-POST-LIST:START -->
 - [论文阅读笔记：[ICML 2022]Sublinear-Time Clustering Oracle for Signed Graphs](https://blog.csdn.net/u013589741/article/details/126058588)
