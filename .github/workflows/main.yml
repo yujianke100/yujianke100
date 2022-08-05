@@ -55,7 +55,7 @@ jobs:
           python-version: 3.7
 
       - name: 'Working'
-        run: python update_time_display.py
+        run: pip3 install feedparser && python update_time_display.py
         
       - name: Commit and push if changed
         run: |
