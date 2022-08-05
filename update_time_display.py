@@ -39,7 +39,7 @@ def main():
     # 获取README.md内容
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
-    new_readme_md_content = re.sub(r'\<\!\-\-BLOG\-TITLE\-START\-\-\>\n(.|\n)*\<\-\-BLOG\-TITLE\-END\-\-\>', insert_info)
+    new_readme_md_content = re.sub(r'\<\!\-\-BLOG\-TITLE\-START\-\-\>\n(.|\n)*\<\-\-BLOG\-TITLE\-END\-\-\>', insert_info, readme_md_content)
     with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
         f.write(new_readme_md_content)
 main()
