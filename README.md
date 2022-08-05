@@ -79,11 +79,11 @@
  *Update Time: 2022-08-05(UTC+8) | Updated by Github Actions*
 <!--BLOG-TITLE-END-->
 <!-- BLOG-POST-LIST:START -->
+- [论文阅读笔记：[AAAI]Interpretable Neural Subgraph Matching for Graph Retrieval](https://blog.csdn.net/u013589741/article/details/126174882)
 - [论文阅读笔记：[ICML 2022]Sublinear-Time Clustering Oracle for Signed Graphs](https://blog.csdn.net/u013589741/article/details/126058588)
 - [论文阅读笔记：[TKDE 2021]Fast Semi-Supervised Learning WithOptimal Bipartite Graph](https://blog.csdn.net/u013589741/article/details/122310566)
 - [论文阅读笔记：[WSDM 2021]Bipartite Graph Embedding via Mutual InformationMaximization](https://blog.csdn.net/u013589741/article/details/122245224)
 - [论文阅读笔记：[SIGIR 2020]LightGCN: Simplifying and Powering Graph ConvolutionNetwork for Recommendation](https://blog.csdn.net/u013589741/article/details/122200621)
-- [论文阅读笔记：[CIKM 2021]Signed Bipartite Graph Neural Networks](https://blog.csdn.net/u013589741/article/details/122178416)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
