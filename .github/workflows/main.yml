@@ -55,4 +55,12 @@ jobs:
 
       - name: 'Working'
         run: python update_time_display.py
-
+        
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.email 734962820@qq.com
+          git config --global user.name yujianke100
+          git add README.md
+          git commit -m "Github Action Auto Updated"
+          git push
