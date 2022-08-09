@@ -76,7 +76,7 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-08-08 18:40 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-08-09 11:23 (UTC+8) | Updated by Github Actions*
 
 - [[AAAI 2022]Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting](https://blog.csdn.net/u013589741/article/details/126182447)
 
