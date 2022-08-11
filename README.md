@@ -1,4 +1,4 @@
-## Hey 👋, I'm Jianke Yu!   
+## Hey 👋, I'm Yu Jianke!   
   
 
 <a href="https://github.com/https://github.com/yujianke100" target="_blank">
