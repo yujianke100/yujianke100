@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-08-16 11:25 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-08-16 18:37 (UTC+8) | Updated by Github Actions*
+
+- [[PNAZ 2019]Predicting neighborhoods‘ socioeconomic attributes using restaurant data](https://blog.csdn.net/u013589741/article/details/126369021)
 
 - [[SIGMOD 2022]Neural Subgraph Counting with Wasserstein Estimator](https://blog.csdn.net/u013589741/article/details/126308777)
 
@@ -85,8 +87,6 @@
 - [[AAAI 2022]Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting](https://blog.csdn.net/u013589741/article/details/126182447)
 
 - [论文阅读笔记：[AAAI 2022]Interpretable Neural Subgraph Matching for Graph Retrieval](https://blog.csdn.net/u013589741/article/details/126174882)
-
-- [论文阅读笔记：[ICML 2022]Sublinear-Time Clustering Oracle for Signed Graphs](https://blog.csdn.net/u013589741/article/details/126058588)
 <!--BLOG_END-->
 
 <br>
