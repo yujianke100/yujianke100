@@ -76,9 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-08-16 18:37 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-08-17 11:38 (UTC+8) | Updated by Github Actions*
 
-- [[PNAZ 2019]Predicting neighborhoods‘ socioeconomic attributes using restaurant data](https://blog.csdn.net/u013589741/article/details/126369021)
+- [[PNAS 2019]Predicting neighborhoods‘ socioeconomic attributes using restaurant data](https://blog.csdn.net/u013589741/article/details/126369021)
 
 - [[SIGMOD 2022]Neural Subgraph Counting with Wasserstein Estimator](https://blog.csdn.net/u013589741/article/details/126308777)
 
