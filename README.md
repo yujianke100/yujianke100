@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-08-19 11:29 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-08-19 18:42 (UTC+8) | Updated by Github Actions*
+
+- [[ICLR 2018]Learning Latent Permutations with Gumbel-Sinkhorn Networks](https://blog.csdn.net/u013589741/article/details/126429542)
 
 - [[PNAS 2019]Predicting neighborhoods‘ socioeconomic attributes using restaurant data](https://blog.csdn.net/u013589741/article/details/126369021)
 
@@ -85,8 +87,6 @@
 - [[ICDE 2022]Reinforcement Learning Based Query Vertex Ordering Model for Subgraph Matching](https://blog.csdn.net/u013589741/article/details/126271646)
 
 - [[AAAI 2022]Graph Convolutional Networks with Dual Message Passing for Subgraph Isomorphism Counting](https://blog.csdn.net/u013589741/article/details/126182447)
-
-- [论文阅读笔记：[AAAI 2022]Interpretable Neural Subgraph Matching for Graph Retrieval](https://blog.csdn.net/u013589741/article/details/126174882)
 <!--BLOG_END-->
 
 <br>
