@@ -76,7 +76,7 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-08-21 18:38 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-08-22 11:36 (UTC+8) | Updated by Github Actions*
 
 - [[ICLR 2018]Learning Latent Permutations with Gumbel-Sinkhorn Networks](https://blog.csdn.net/u013589741/article/details/126429542)
 
