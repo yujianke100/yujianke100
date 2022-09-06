@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-09-06 12:04 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-09-06 18:42 (UTC+8) | Updated by Github Actions*
+
+- [[VLDB 2022]Query Driven-Graph Neural Networks for Community Search: From Non-Attributed...](https://blog.csdn.net/u013589741/article/details/126729212)
 
 - [[VLDB 2022]Butterfly Counting on Uncertain Bipartite Graphs](https://blog.csdn.net/u013589741/article/details/126666775)
 
@@ -85,8 +87,6 @@
 - [[PNAS 2019]Predicting neighborhoods‘ socioeconomic attributes using restaurant data](https://blog.csdn.net/u013589741/article/details/126369021)
 
 - [[SIGMOD 2022]Neural Subgraph Counting with Wasserstein Estimator](https://blog.csdn.net/u013589741/article/details/126308777)
-
-- [[ICDE 2022]Reinforcement Learning Based Query Vertex Ordering Model for Subgraph Matching](https://blog.csdn.net/u013589741/article/details/126271646)
 <!--BLOG_END-->
 
 <br>
