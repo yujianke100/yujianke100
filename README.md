@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-09-07 12:05 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-09-07 18:43 (UTC+8) | Updated by Github Actions*
+
+- [[VLDB 2021]ICS-GNN: Lightweight Interactive Community Search via Graph Neural Network](https://blog.csdn.net/u013589741/article/details/126750997)
 
 - [[VLDB 2022]Query Driven-Graph Neural Networks for Community Search: From Non-Attributed...](https://blog.csdn.net/u013589741/article/details/126729212)
 
@@ -85,8 +87,6 @@
 - [[ICLR 2018]Learning Latent Permutations with Gumbel-Sinkhorn Networks](https://blog.csdn.net/u013589741/article/details/126429542)
 
 - [[PNAS 2019]Predicting neighborhoods‘ socioeconomic attributes using restaurant data](https://blog.csdn.net/u013589741/article/details/126369021)
-
-- [[SIGMOD 2022]Neural Subgraph Counting with Wasserstein Estimator](https://blog.csdn.net/u013589741/article/details/126308777)
 <!--BLOG_END-->
 
 <br>
