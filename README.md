@@ -76,17 +76,17 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-09-22 11:56 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-09-22 17:55 (UTC+8) | Updated by Github Actions*
 
-- [[VLDB 2021]ICS-GNN: Lightweight Interactive Community Search via Graph Neural Network](https://blog.csdn.net/u013589741/article/details/126750997)
+- [[TKDE 2021]Fast Semi-Supervised Learning WithOptimal Bipartite Graph - yujianke100](https://www.cnblogs.com/yujianke/p/16719777.html)
 
-- [[VLDB 2022]Query Driven-Graph Neural Networks for Community Search: From Non-Attributed...](https://blog.csdn.net/u013589741/article/details/126729212)
+- [[SIGMOD 2022]Neural Subgraph Counting with Wasserstein Estimator - yujianke100](https://www.cnblogs.com/yujianke/p/16719769.html)
 
-- [[VLDB 2022]Butterfly Counting on Uncertain Bipartite Graphs](https://blog.csdn.net/u013589741/article/details/126666775)
+- [[SIGIR 2020]LightGCN_ Simplifying and Powering Graph ConvolutionNetwork for Recommendation - yujianke100](https://www.cnblogs.com/yujianke/p/16719762.html)
 
-- [[ICLR 2018]Learning Latent Permutations with Gumbel-Sinkhorn Networks](https://blog.csdn.net/u013589741/article/details/126429542)
+- [[SIGIR 2019]Hyperlink Classification via Structured Graph Embedding - yujianke100](https://www.cnblogs.com/yujianke/p/16719760.html)
 
-- [[PNAS 2019]Predicting neighborhoods‘ socioeconomic attributes using restaurant data](https://blog.csdn.net/u013589741/article/details/126369021)
+- [[PNAZ 2019]Predicting neighborhoods' socioeconomic attributes using restaurant data - yujianke100](https://www.cnblogs.com/yujianke/p/16719751.html)
 <!--BLOG_END-->
 
 <br>
