@@ -76,17 +76,7 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-09-22 18:44 (UTC+8) | Updated by Github Actions*
-
-- [[TKDE 2021]Fast Semi-Supervised Learning WithOptimal Bipartite Graph - yujianke100](https://www.cnblogs.com/yujianke/p/16719777.html)
-
-- [[SIGMOD 2022]Neural Subgraph Counting with Wasserstein Estimator - yujianke100](https://www.cnblogs.com/yujianke/p/16719769.html)
-
-- [[SIGIR 2020]LightGCN_ Simplifying and Powering Graph ConvolutionNetwork for Recommendation - yujianke100](https://www.cnblogs.com/yujianke/p/16719762.html)
-
-- [[SIGIR 2019]Hyperlink Classification via Structured Graph Embedding - yujianke100](https://www.cnblogs.com/yujianke/p/16719760.html)
-
-- [[PNAZ 2019]Predicting neighborhoods' socioeconomic attributes using restaurant data - yujianke100](https://www.cnblogs.com/yujianke/p/16719751.html)
+ *Update Time: 2022-09-23 12:01 (UTC+8) | Updated by Github Actions*
 <!--BLOG_END-->
 
 <br>
