@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-09-29 18:46 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-09-30 12:12 (UTC+8) | Updated by Github Actions*
+
+- [[NSDI 2021]MilliSort and MilliQuery Large-Scale Data-Intensive Computing in Milliseconds - yujianke100](https://www.cnblogs.com/yujianke100/p/16744462.html)
 
 - [[IEEE 2021]Deep Fraud Detection on Non-attributed Graph - yujianke100](https://www.cnblogs.com/yujianke100/p/16738546.html)
 
@@ -85,8 +87,6 @@
 - [[arxiv 2020]TEMPORAL GRAPH NETWORKS FOR DEEP LEARNING ON DYNAMIC GRAPHS - yujianke100](https://www.cnblogs.com/yujianke100/p/16720293.html)
 
 - [[WSDM 2021]Bipartite Graph Embedding via Mutual InformationMaximization - yujianke100](https://www.cnblogs.com/yujianke100/p/16720238.html)
-
-- [[VLDB 2022]Query Driven-Graph Neural Networks for Community Search_ From Non-Attributed, Attributed, to Interactive Attributed - yujianke100](https://www.cnblogs.com/yujianke100/p/16720224.html)
 <!--BLOG_END-->
 
 <br>
