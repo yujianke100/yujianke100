@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-10-14 12:05 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-10-14 18:47 (UTC+8) | Updated by Github Actions*
+
+- [[Ecological Informatics 2022]Dynamic graph convolution neural network based on spatial-temporal correlation for air quality prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16791884.html)
 
 - [[NSDI 2021]MilliSort and MilliQuery Large-Scale Data-Intensive Computing in Milliseconds - yujianke100](https://www.cnblogs.com/yujianke100/p/16744462.html)
 
@@ -85,8 +87,6 @@
 - [将博客搬至CSDN - yujianke100](https://www.cnblogs.com/yujianke100/p/16722257.html)
 
 - [[arxiv 2020]TEMPORAL GRAPH NETWORKS FOR DEEP LEARNING ON DYNAMIC GRAPHS - yujianke100](https://www.cnblogs.com/yujianke100/p/16720293.html)
-
-- [[WSDM 2021]Bipartite Graph Embedding via Mutual InformationMaximization - yujianke100](https://www.cnblogs.com/yujianke100/p/16720238.html)
 <!--BLOG_END-->
 
 <br>
