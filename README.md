@@ -76,7 +76,7 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-10-21 11:19 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-10-21 18:48 (UTC+8) | Updated by Github Actions*
 
 - [[Ecological Informatics 2022]Dynamic graph convolution neural network based on spatial-temporal correlation for air quality prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16791884.html)
 
