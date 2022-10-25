@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-10-25 12:06 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-10-25 18:49 (UTC+8) | Updated by Github Actions*
+
+- [[WSDM 2022]HTGN-BTW Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16825769.html)
 
 - [[Ecological Informatics 2022]Dynamic graph convolution neural network based on spatial-temporal correlation for air quality prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16791884.html)
 
@@ -85,8 +87,6 @@
 - [[IEEE 2021]Deep Fraud Detection on Non-attributed Graph - yujianke100](https://www.cnblogs.com/yujianke100/p/16738546.html)
 
 - [将博客搬至CSDN - yujianke100](https://www.cnblogs.com/yujianke100/p/16722257.html)
-
-- [[arxiv 2020]TEMPORAL GRAPH NETWORKS FOR DEEP LEARNING ON DYNAMIC GRAPHS - yujianke100](https://www.cnblogs.com/yujianke100/p/16720293.html)
 <!--BLOG_END-->
 
 <br>
