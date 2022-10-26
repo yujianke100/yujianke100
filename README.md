@@ -76,7 +76,7 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-10-25 18:49 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-10-26 11:27 (UTC+8) | Updated by Github Actions*
 
 - [[WSDM 2022]HTGN-BTW Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16825769.html)
 
