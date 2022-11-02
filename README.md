@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-11-01 18:44 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-11-02 11:33 (UTC+8) | Updated by Github Actions*
+
+- [[TKDE 2020]Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity - yujianke100](https://www.cnblogs.com/yujianke100/p/16848977.html)
 
 - [[TKDE 2022]HyperISO Efficiently Searching Subgraph Containment in Hypergraphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16835021.html)
 
@@ -85,8 +87,6 @@
 - [[Ecological Informatics 2022]Dynamic graph convolution neural network based on spatial-temporal correlation for air quality prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16791884.html)
 
 - [[NSDI 2021]MilliSort and MilliQuery Large-Scale Data-Intensive Computing in Milliseconds - yujianke100](https://www.cnblogs.com/yujianke100/p/16744462.html)
-
-- [[IEEE 2021]Deep Fraud Detection on Non-attributed Graph - yujianke100](https://www.cnblogs.com/yujianke100/p/16738546.html)
 <!--BLOG_END-->
 
 <br>
