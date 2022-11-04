@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-11-04 11:21 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-11-04 18:40 (UTC+8) | Updated by Github Actions*
+
+- [代码：[arxiv 2020]TEMPORAL GRAPH NETWORKS FOR DEEP LEARNING ON DYNAMIC GRAPHS - yujianke100](https://www.cnblogs.com/yujianke100/p/16858627.html)
 
 - [[TKDE 2020]Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity - yujianke100](https://www.cnblogs.com/yujianke100/p/16848977.html)
 
@@ -85,8 +87,6 @@
 - [[WSDM 2022]HTGN-BTW Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16825769.html)
 
 - [[Ecological Informatics 2022]Dynamic graph convolution neural network based on spatial-temporal correlation for air quality prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16791884.html)
-
-- [[NSDI 2021]MilliSort and MilliQuery Large-Scale Data-Intensive Computing in Milliseconds - yujianke100](https://www.cnblogs.com/yujianke100/p/16744462.html)
 <!--BLOG_END-->
 
 <br>
