@@ -76,7 +76,7 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-11-10 11:12 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-11-10 18:41 (UTC+8) | Updated by Github Actions*
 
 - [[IJCAI 2022]Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences - yujianke100](https://www.cnblogs.com/yujianke100/p/16870700.html)
 
