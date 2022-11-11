@@ -76,11 +76,11 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-11-11 11:12 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-11-11 18:44 (UTC+8) | Updated by Github Actions*
 
 - [[IJCAI 2022]Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences - yujianke100](https://www.cnblogs.com/yujianke100/p/16870700.html)
 
-- [代码：[arxiv 2020]TEMPORAL GRAPH NETWORKS FOR DEEP LEARNING ON DYNAMIC GRAPHS - yujianke100](https://www.cnblogs.com/yujianke100/p/16858627.html)
+- [代码：[ICML 2020]TEMPORAL GRAPH NETWORKS FOR DEEP LEARNING ON DYNAMIC GRAPHS - yujianke100](https://www.cnblogs.com/yujianke100/p/16858627.html)
 
 - [[TKDE 2020]Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity - yujianke100](https://www.cnblogs.com/yujianke100/p/16848977.html)
 
