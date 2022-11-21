@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-11-21 11:01 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-11-21 18:40 (UTC+8) | Updated by Github Actions*
+
+- [[WSDM 2022]An Effective Graph Learning based Approach for Temporal Link Prediction The First Place of WSDM Cup 2022 - yujianke100](https://www.cnblogs.com/yujianke100/p/16911332.html)
 
 - [[IJCAI 2022]Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences - yujianke100](https://www.cnblogs.com/yujianke100/p/16870700.html)
 
@@ -85,8 +87,6 @@
 - [[TKDE 2020]Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity - yujianke100](https://www.cnblogs.com/yujianke100/p/16848977.html)
 
 - [[TKDE 2022]HyperISO Efficiently Searching Subgraph Containment in Hypergraphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16835021.html)
-
-- [[WSDM 2022]HTGN-BTW Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction - yujianke100](https://www.cnblogs.com/yujianke100/p/16825769.html)
 <!--BLOG_END-->
 
 <br>
