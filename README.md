@@ -76,7 +76,7 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-11-21 18:40 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-11-22 10:57 (UTC+8) | Updated by Github Actions*
 
 - [[WSDM 2022]An Effective Graph Learning based Approach for Temporal Link Prediction The First Place of WSDM Cup 2022 - yujianke100](https://www.cnblogs.com/yujianke100/p/16911332.html)
 
