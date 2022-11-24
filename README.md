@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-11-24 10:40 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-11-24 18:37 (UTC+8) | Updated by Github Actions*
+
+- [[NIPS 2022]Neural Temporal Walks Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16921414.html)
 
 - [[KDD 2022]ROLAND Graph Learning Framework for Dynamic Graphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16917752.html)
 
@@ -85,8 +87,6 @@
 - [[IJCAI 2022]Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences - yujianke100](https://www.cnblogs.com/yujianke100/p/16870700.html)
 
 - [代码：[ICML 2020]TEMPORAL GRAPH NETWORKS FOR DEEP LEARNING ON DYNAMIC GRAPHS - yujianke100](https://www.cnblogs.com/yujianke100/p/16858627.html)
-
-- [[TKDE 2020]Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity - yujianke100](https://www.cnblogs.com/yujianke100/p/16848977.html)
 <!--BLOG_END-->
 
 <br>
