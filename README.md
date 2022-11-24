@@ -76,7 +76,7 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-11-23 18:37 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-11-24 10:40 (UTC+8) | Updated by Github Actions*
 
 - [[KDD 2022]ROLAND Graph Learning Framework for Dynamic Graphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16917752.html)
 
