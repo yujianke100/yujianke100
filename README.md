@@ -76,7 +76,9 @@
 
 <!--BLOG_START-->
 ## Recent Blog Posts
- *Update Time: 2022-12-12 10:35 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2022-12-12 18:36 (UTC+8) | Updated by Github Actions*
+
+- [[SIGMOD 2022]DMCS Density Modularity based Community Search - yujianke100](https://www.cnblogs.com/yujianke100/p/16976502.html)
 
 - [[NIPS 2022]Neural Temporal Walks Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16921414.html)
 
@@ -85,8 +87,6 @@
 - [[WSDM 2022]An Effective Graph Learning based Approach for Temporal Link Prediction The First Place of WSDM Cup 2022 - yujianke100](https://www.cnblogs.com/yujianke100/p/16911332.html)
 
 - [[IJCAI 2022]Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences - yujianke100](https://www.cnblogs.com/yujianke100/p/16870700.html)
-
-- [代码：[ICML 2020]TEMPORAL GRAPH NETWORKS FOR DEEP LEARNING ON DYNAMIC GRAPHS - yujianke100](https://www.cnblogs.com/yujianke100/p/16858627.html)
 <!--BLOG_END-->
 
 <br>
