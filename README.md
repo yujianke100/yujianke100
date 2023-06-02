@@ -26,8 +26,9 @@
 ## My Papers  
 - [[WWWJ 2022] Polarity-based graph neural network for sign prediction in signed bipartite graphs](https://link.springer.com/article/10.1007/s11280-022-01015-4)  
   
-
 - [[WWWJ 2022] Bipartite graph capsule network](https://link.springer.com/article/10.1007/s11280-022-01009-2)  
+
+- [[TKDE 2023] Neural Similarity Search on Supergraph Containment](https://ieeexplore.ieee.org/abstract/document/10135129)
 
   
 <br/>   
