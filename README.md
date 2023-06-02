@@ -35,7 +35,7 @@
 ## Internship Experience
 
 - Taobao, Alibaba Group (2021/11/18~2022/03/31.)
-- DAMO Academy, Alibaba Group (2022/07/18~.)
+- DAMO Academy/Alibaba Cloud, Alibaba Group (2022/07/18~2023/4/28)
 
 <br/>  
 
