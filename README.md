@@ -8,7 +8,7 @@
 <br/>  
 
 # 🔥 News
-- 🏫 I’m currently studying at Zhejiang Gongshang University as a postgraduate.  
+- 🏫 I’m currently studying at University of Technology Sydney as a Ph.D.  
   
 
 - 📚 I’m currently researching Graph Neural Networks.  
