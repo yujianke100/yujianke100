@@ -1,3 +1,5 @@
+<head>
+  <base href="https://example.com/">
 <span class='anchor' id='about-me'></span>
 ## Hey 👋, I'm Yu Jianke!   
   
@@ -100,4 +102,5 @@
 <br>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=yujianke100&&style=flat-square)  
-  
+
+</head>
