@@ -1,3 +1,4 @@
+<span class='anchor' id='about-me'></span>
 ## Hey 👋, I'm Yu Jianke!   
   
 
@@ -12,7 +13,7 @@
 
 <br/>  
 
-
+<span class='anchor' id='Rapidfire'></span>
 ## Rapidfire  
 - 🏫 I’m currently studying at Zhejiang Gongshang University as a postgraduate.  
   
@@ -22,6 +23,7 @@
 
 <br/>  
 
+<span class='anchor' id='My-Papers'></span>
 
 ## My Papers  
 - [[WWWJ 2022] Polarity-based graph neural network for sign prediction in signed bipartite graphs](https://link.springer.com/article/10.1007/s11280-022-01015-4)  
@@ -33,6 +35,8 @@
   
 <br/>   
 
+<span class='anchor' id='Internship-Experience'></span>
+
 ## Internship Experience
 
 - Taobao, Alibaba Group (2021/11/18~2022/03/31.)
@@ -40,7 +44,7 @@
 
 <br/>  
 
-
+<span class='anchor' id='Languages-and-Tools'></span>
 
 ## Languages and Tools  
 <div align="center">  
@@ -62,6 +66,7 @@
 
 <br/>  
 
+<span class='anchor' id='Github-Stats'></span>
 
 ## Github Stats  
 
@@ -74,6 +79,8 @@
 <br/>  
 
 ![](https://raw.githubusercontent.com/yujianke100/yujianke100/output/github-contribution-grid-snake.svg)
+
+<span class='anchor' id='Recent-Blog-Posts'></span>
 
 <!--BLOG_START-->
 ## Recent Blog Posts
