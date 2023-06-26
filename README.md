@@ -3,7 +3,7 @@
 # Hey 👋, I'm Jianke Yu!
   
   
-🎓 [My Google Scholar Homepage](https://scholar.google.com/citations?user=D1RKuLsAAAAJ&hl=zh-CN)  
+🎓 [My Google Scholar Homepage](https://scholar.google.com/citations?user=EwomMksAAAAJ)  
 
 <br/>  
 
