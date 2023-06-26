@@ -33,13 +33,7 @@
 - *2016.09 - 2020.06*, BSc, Electronic Information Engineering, Zhejiang Gongshang University, Hangzhou, China. 
 
 <br/>  
-<!--
-# 💻 Internships
-- *2021.11.18 - 2022.03.31*, Taobao, Alibaba Group, Hangzhou, China.
-- *2022.07.18 - 2023.4.28*, DAMO Academy/Alibaba Cloud, Alibaba Group, Hangzhou, China.
 
-<br/>  
--->
 
 <span class='anchor' id='Recent-Blog-Posts'></span>
 
