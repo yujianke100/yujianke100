@@ -26,6 +26,11 @@
   
 <br/>   
 
+# 💻 Internships
+- *2021.11.18 - 2022.03.31*, Taobao, Alibaba Group, Hangzhou, China.
+- *2022.07.18 - 2023.4.28*, DAMO Academy/Alibaba Cloud, Alibaba Group, Hangzhou, China.
+
+<br/>   
 
 # 📖 Educations
 - *2023.07 - (now)*, PhD, Information Technology, University of Technology Sydney, Sydney, Australia.
