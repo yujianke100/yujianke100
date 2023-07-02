@@ -34,10 +34,4 @@ jobs:
           git commit -m "Github Action Auto Updated"
           git push
           
-      - name: Trigger Another Workflow
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://github.com/yujianke100/yujianke100.github.io/.github/workflows/google_scholar_crawler.yaml"
-          max_post_count: 10
 
