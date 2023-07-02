@@ -53,6 +53,8 @@ jobs:
           git commit -m "Github Action Auto Updated"
           git push
           
+          git config --global user.email 734962820@qq.com
+          git config --global user.name yujianke100
           git clone https://github.com/yujianke100/yujianke100.github.io.git
           cp README.md ./yujianke100.github.io/_pages/about.md
           sed -i '1s/^/---\npermalink: \/\ntitle: ""\nexcerpt: ""\nauthor_profile: true\nredirect_from:\n  - \/about\/\n  - \/about.html\n---\n/' ./yujianke100.github.io/_pages/about.md
