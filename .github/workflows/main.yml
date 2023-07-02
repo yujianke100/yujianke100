@@ -58,6 +58,8 @@ jobs:
           sed -i '1s/^/---\npermalink: \/\ntitle: ""\nexcerpt: ""\nauthor_profile: true\nredirect_from:\n  - \/about\/\n  - \/about.html\n---\n/' ./yujianke100.github.io/_pages/about.md
           cd ./yujianke100.github.io
           git diff
+          git config --global user.email 734962820@qq.com
+          git config --global user.name yujianke100
           git add ./_pages/about.md
           git commit -m "Github Action Auto Updated"
           git push
