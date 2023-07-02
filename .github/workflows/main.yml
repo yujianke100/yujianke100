@@ -35,10 +35,9 @@ jobs:
           git push
           
       - name: Trigger Another Workflow
-        uses: peter-evans/repository-dispatch@v1
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          token: ${{ secrets.TARGET_REPO_TOKEN }}
-          repository: yujianke100/yujianke100.github.io
-          event-type: Update README
-          client-payload: '{"key": "value"}'
+          feed_list: "https://github.com/yujianke100/yujianke100.github.io/.github/workflows/google_scholar_crawler.yaml"
+          max_post_count: 10
 
