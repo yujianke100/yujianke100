@@ -53,6 +53,8 @@ jobs:
           
 
       - name: Update Homepage README
+        env:
+          TARGET_REPO_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
         run: |
           git diff
           git config --global user.email 734962820@qq.com
