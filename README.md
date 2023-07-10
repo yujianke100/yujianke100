@@ -11,7 +11,7 @@ My research focuses on developing machine learning algorithms for graph structur
 <br/>  
 
 # 🔥 News
-- 🏫 I’m currently studying at University of Technology Sydney as a Ph.D.  
+- 🏫 I’m currently studying at University of Technology Sydney as a Ph.D student.  
   
 
 - 📚 I’m currently researching Graph Neural Networks.  
