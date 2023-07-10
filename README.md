@@ -48,7 +48,9 @@ My research focuses on developing machine learning algorithms for graph structur
 
 <!--BLOG_START-->
 # ✒️ Recent Blog Posts
- *Update Time: 2023-07-09 18:36 (UTC+8) | Updated by Github Actions*
+ *Update Time: 2023-07-10 10:49 (UTC+8) | Updated by Github Actions*
+
+- [Efficient GPU-Accelerated Subgraph Matching - yujianke100](https://www.cnblogs.com/yujianke100/p/17539180.html)
 
 - [UTS开学流程记录 - yujianke100](https://www.cnblogs.com/yujianke100/p/17526781.html)
 
@@ -57,8 +59,6 @@ My research focuses on developing machine learning algorithms for graph structur
 - [[NIPS 2022]Neural Temporal Walks Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16921414.html)
 
 - [[KDD 2022]ROLAND Graph Learning Framework for Dynamic Graphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16917752.html)
-
-- [[WSDM 2022]An Effective Graph Learning based Approach for Temporal Link Prediction The First Place of WSDM Cup 2022 - yujianke100](https://www.cnblogs.com/yujianke100/p/16911332.html)
 <!--BLOG_END-->
 
 <br>
