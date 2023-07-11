@@ -48,7 +48,9 @@ My research focuses on developing machine learning algorithms for graph structur
 
 <!--BLOG_START-->
 # ✒️ Recent Blog Posts
- *Update Time: 2023-07-11 02:39 (UTC) | Updated by Github Actions*
+ *Update Time: 2023-07-11 10:38 (UTC) | Updated by Github Actions*
+
+- [[SIGMOD 2022]Lightweight and Accurate Cardinality Estimation by Neural Network Gaussian Process - yujianke100](https://www.cnblogs.com/yujianke100/p/17545253.html)
 
 - [[ICDE 2022]How Learning Can Help Complex Cyclic Join Decomposition - yujianke100](https://www.cnblogs.com/yujianke100/p/17542065.html)
 
@@ -57,8 +59,6 @@ My research focuses on developing machine learning algorithms for graph structur
 - [UTS开学流程记录 - yujianke100](https://www.cnblogs.com/yujianke100/p/17526781.html)
 
 - [[SIGMOD 2022]DMCS Density Modularity based Community Search - yujianke100](https://www.cnblogs.com/yujianke100/p/16976502.html)
-
-- [[NIPS 2022]Neural Temporal Walks Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs - yujianke100](https://www.cnblogs.com/yujianke100/p/16921414.html)
 <!--BLOG_END-->
 
 <br>
