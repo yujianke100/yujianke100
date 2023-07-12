@@ -48,7 +48,9 @@ My research focuses on developing machine learning algorithms for graph structur
 
 <!--BLOG_START-->
 # ✒️ Recent Blog Posts
- *Update Time: 2023-07-11 10:38 (UTC) | Updated by Github Actions*
+ *Update Time: 2023-07-12 02:44 (UTC) | Updated by Github Actions*
+
+- [[VLDBJ 2022]Privacy and efficiency guaranteed social subgraph matching - yujianke100](https://www.cnblogs.com/yujianke100/p/17546111.html)
 
 - [[SIGMOD 2022]Lightweight and Accurate Cardinality Estimation by Neural Network Gaussian Process - yujianke100](https://www.cnblogs.com/yujianke100/p/17545253.html)
 
@@ -57,8 +59,6 @@ My research focuses on developing machine learning algorithms for graph structur
 - [Efficient GPU-Accelerated Subgraph Matching - yujianke100](https://www.cnblogs.com/yujianke100/p/17539180.html)
 
 - [UTS开学流程记录 - yujianke100](https://www.cnblogs.com/yujianke100/p/17526781.html)
-
-- [[SIGMOD 2022]DMCS Density Modularity based Community Search - yujianke100](https://www.cnblogs.com/yujianke100/p/16976502.html)
 <!--BLOG_END-->
 
 <br>
