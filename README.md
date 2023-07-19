@@ -48,7 +48,9 @@ My research focuses on developing machine learning algorithms for graph structur
 
 <!--BLOG_START-->
 # ✒️ Recent Blog Posts
- *Update Time: 2023-07-18 10:36 (UTC) | Updated by Github Actions*
+ *Update Time: 2023-07-19 03:31 (UTC) | Updated by Github Actions*
+
+- [[AAAI 2023]Self-Supervised Bidirectional Learning for Graph Matching - yujianke100](https://www.cnblogs.com/yujianke100/p/17564047.html)
 
 - [[VLDBJ 2022]Privacy and efficiency guaranteed social subgraph matching - yujianke100](https://www.cnblogs.com/yujianke100/p/17546111.html)
 
@@ -57,8 +59,6 @@ My research focuses on developing machine learning algorithms for graph structur
 - [[ICDE 2022]How Learning Can Help Complex Cyclic Join Decomposition - yujianke100](https://www.cnblogs.com/yujianke100/p/17542065.html)
 
 - [Efficient GPU-Accelerated Subgraph Matching - yujianke100](https://www.cnblogs.com/yujianke100/p/17539180.html)
-
-- [UTS开学流程记录 - yujianke100](https://www.cnblogs.com/yujianke100/p/17526781.html)
 <!--BLOG_END-->
 
 <br>
