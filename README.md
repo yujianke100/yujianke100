@@ -46,21 +46,6 @@ My research focuses on developing machine learning algorithms for graph structur
 <br/>  
 
 
-<span class='anchor' id='Recent-Blog-Posts'></span>
+<!-<span class='anchor' id='Recent-Blog-Posts'></span>-->
 
 <!--BLOG_START-->
-# ✒️ Recent Blog Posts
- *Update Time: 2023-08-14 01:59 (UTC) | Updated by Github Actions*
-
-- [[SIGMOD 2020]In-Memory Subgraph Matching An In-depth Study - yujianke100](https://www.cnblogs.com/yujianke100/p/17615340.html)
-
-- [NEURAL SUBGRAPH MATCHING - yujianke100](https://www.cnblogs.com/yujianke100/p/17594508.html)
-
-- [[AAAI 2023]Self-Supervised Bidirectional Learning for Graph Matching - yujianke100](https://www.cnblogs.com/yujianke100/p/17564047.html)
-
-- [[VLDBJ 2022]Privacy and efficiency guaranteed social subgraph matching - yujianke100](https://www.cnblogs.com/yujianke100/p/17546111.html)
-
-- [[SIGMOD 2022]Lightweight and Accurate Cardinality Estimation by Neural Network Gaussian Process - yujianke100](https://www.cnblogs.com/yujianke100/p/17545253.html)
-<!--BLOG_END-->
-
-<br>
