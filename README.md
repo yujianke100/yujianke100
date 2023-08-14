@@ -46,6 +46,6 @@ My research focuses on developing machine learning algorithms for graph structur
 <br/>  
 
 
-<!-<span class='anchor' id='Recent-Blog-Posts'></span>-->
+<!--<span class='anchor' id='Recent-Blog-Posts'></span>-->
 
 <!--BLOG_START-->
