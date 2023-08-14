@@ -1,11 +1,11 @@
 name: auto_update
 
 on:
-  schedule:
-    # - cron: "30 1,10 * * *"
-  workflow_dispatch:
-  repository_dispatch:
-    types: [update_profile]
+  # schedule:
+  #   - cron: "30 1,10 * * *"
+  # workflow_dispatch:
+  # repository_dispatch:
+  #   types: [update_profile]
     
 jobs:
   generate:
