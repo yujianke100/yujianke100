@@ -5,6 +5,8 @@
   
 🎓 [My Google Scholar Homepage](https://scholar.google.com/citations?user=EwomMksAAAAJ)  
 
+📒 [My Blog](https://www.cnblogs.com/yujianke100)
+
 I am currently a Ph.D. student at the University of Technology Sydney, under the supervision of Prof. Ying Zhang and A/Prof. Lu Qin.
 My research focuses on developing machine learning algorithms for graph structured data and database systems, including developing graph neural network architectures and applying machine learning techniques to improve the algorithms in database domain.
 
