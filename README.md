@@ -41,9 +41,9 @@ My research focuses on developing machine learning algorithms for graph structur
 <br/>   
 
 # 📖 Educations
-- *2023.07 - (now)*, PhD, Information Technology, University of Technology Sydney, Sydney, Australia.
-- *2020.09 - 2023.06*, MSc, Electronic Information, Zhejiang Gongshang University, Hangzhou, China.
-- *2016.09 - 2020.06*, BSc, Electronic Information Engineering, Zhejiang Gongshang University, Hangzhou, China. 
+- *2023.07 - (now)*, Ph.D., Information Technology, University of Technology Sydney, Sydney, Australia.
+- *2020.09 - 2023.06*, M.Eng., Electronic Information, Zhejiang Gongshang University, Hangzhou, China.
+- *2016.09 - 2020.06*, B.Eng., Electronic Information Engineering, Zhejiang Gongshang University, Hangzhou, China. 
 
 <br/>  
 
