@@ -24,7 +24,7 @@ My research focuses on developing machine learning algorithms for graph structur
 
 # 📝 Publications 
 
-- [[ADC 2023] IFGNN: An Individual Fairness Awareness Model for Missing Sensitive Information Graphs](https://link.springer.com/article/10.1007/s11280-023-01205-8)
+- [[ADC 2023] IFGNN: An Individual Fairness Awareness Model for Missing Sensitive Information Graphs](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_20)
 
 - [[WWWJ 2023] FPGN: follower prediction framework for infectious disease prevention](https://link.springer.com/article/10.1007/s11280-023-01205-8)
 
