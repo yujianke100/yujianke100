@@ -7,12 +7,12 @@
 
 I am currently a Ph.D. student at the University of Technology Sydney, under the supervision of Prof. Ying Zhang and A/Prof. Lu Qin.
 I hold both my Bachelor's and Master's degrees from Zhejiang Gongshang University. My Master's degree was completed under the supervision of Prof. Xiaoyang Wang.
-My research focuses on developing machine learning algorithms for graph structured data and database systems, including developing graph neural network architectures and applying machine learning techniques to improve the algorithms in database domain.
+My research focuses on developing machine learning algorithms for graph-structured data and database systems, including developing graph neural network architectures and applying machine learning techniques to improve the algorithms in the database domain.
 
 <br/>  
 
 # 🔥 News
-- 🏫 I’m currently studying at University of Technology Sydney as a Ph.D student.  
+- 🏫 I’m currently studying at University of Technology Sydney as a Ph.D. student.  
   
 
 - 📚 I’m currently researching Graph Neural Networks.  
@@ -21,6 +21,8 @@ My research focuses on developing machine learning algorithms for graph structur
 <br/>  
 
 # 📝 Publications 
+
+- [[HPCC 2023] KGNIE: A Learning Method for Estimating Node Importance in Knowledge Graphs](https://ieeexplore.ieee.org/abstract/document/10466969)
 
 - [[ADC 2023] IFGNN: An Individual Fairness Awareness Model for Missing Sensitive Information Graphs](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_20)
 
