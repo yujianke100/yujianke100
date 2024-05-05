@@ -56,7 +56,7 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 - [COI Checker](https://coi.jianke-yu.online/)
 - [UTS Library Redirect](https://github.com/yujianke100/University-Library-Redirect)
-- [https://github.com/yujianke100/University-Library-Redirect/tree/UNSW](https://github.com/yujianke100/University-Library-Redirect/tree/UNSW)
+- [UNSW Library Redirect](https://github.com/yujianke100/University-Library-Redirect/tree/UNSW)
 - [UTS iHPC Connect Extension for VSCode](https://github.com/yujianke100/UTS-iHPC-Connection-Wizard)
 
 **small web games**
