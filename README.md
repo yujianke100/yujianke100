@@ -59,7 +59,7 @@ My research focuses on developing machine learning algorithms for graph-structur
 **small web games**
 
 - [Guanyin Fortune Sticks](https://asakusa.jianke-yu.online/)
-- [Small Web Game GO GO AYA](https://ayaya.jianke-yu.online/)
+- [Danmaku game: GO GO AYA](https://ayaya.jianke-yu.online/)
 
 <br/>  
 
