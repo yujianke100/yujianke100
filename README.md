@@ -52,6 +52,16 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 <br/>  
 
+# 🔗 Mini Programs
+
+- [COI Checker](https://coi.jianke-yu.online/)
+
+**small web games**
+
+- [Guanyin Fortune Sticks](https://asakusa.jianke-yu.online/)
+- [Small Web Game GO GO AYA](https://ayaya.jianke-yu.online/)
+
+<br/>  
 
 <!--<span class='anchor' id='Recent-Blog-Posts'></span>-->
 
