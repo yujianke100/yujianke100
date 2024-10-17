@@ -22,19 +22,11 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 # 📝 Publications 
 
-- [[HPCC 2023] KGNIE: A Learning Method for Estimating Node Importance in Knowledge Graphs](https://ieeexplore.ieee.org/abstract/document/10466969)
-
-- [[ADC 2023] IFGNN: An Individual Fairness Awareness Model for Missing Sensitive Information Graphs](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_20)
-
-- [[WWWJ 2023] FPGN: follower prediction framework for infectious disease prevention](https://link.springer.com/article/10.1007/s11280-023-01205-8)
+- [[TKDE 2024] Temporal Insights for Group-Based Fraud Detection on e-Commerce Platforms](https://ieeexplore.ieee.org)
 
 - [[KDD 2023] Group-based Fraud Detection Network on e-Commerce Platforms](https://dl.acm.org/doi/10.1145/3580305.3599836)
 
 - [[TKDE 2023] Neural Similarity Search on Supergraph Containment](https://ieeexplore.ieee.org/abstract/document/10135129)
-
-- [[WWWJ 2023] Bipartite graph capsule network](https://link.springer.com/article/10.1007/s11280-022-01009-2)  
- 
-- [[WWWJ 2022] Polarity-based graph neural network for sign prediction in signed bipartite graphs](https://link.springer.com/article/10.1007/s11280-022-01015-4)  
 
   
 <br/>   
