@@ -44,17 +44,13 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 <br/>  
 
-# 🔗 Mini Programs
+# 🔗 Mini Programs for Research
 
 - [COI Checker](https://coi.jianke-yu.online/)
 - [UTS Library Redirect](https://github.com/yujianke100/University-Library-Redirect)
 - [UNSW Library Redirect](https://github.com/yujianke100/University-Library-Redirect/tree/UNSW)
 - [UTS iHPC Connect Extension for VSCode](https://github.com/yujianke100/UTS-iHPC-Connection-Wizard)
 
-**small web games**
-
-- [Guanyin Fortune Sticks](https://asakusa.jianke-yu.online/)
-- [Danmaku game: GO GO AYA](https://ayaya.jianke-yu.online/)
 
 <br/>  
 
