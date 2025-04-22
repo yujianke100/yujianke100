@@ -46,6 +46,6 @@ jobs:
           mkdir -p ~/.ssh
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan -p 302 -t rsa jump.jianke-yu.online >> ~/.ssh/known_hosts
-          scp -P 302 homepage.tar.gz homepage@jump.jianke-yu.online:/home/homepage
-          ssh -p 302 homepage@jump.jianke-yu.online "/home/homepage/deploy_homepage.sh"
+          ssh-keyscan -p 10198 -t rsa jump.jianke-yu.online >> ~/.ssh/known_hosts
+          scp -P 10198 homepage.tar.gz homepage@jump.jianke-yu.online:/home/homepage
+          ssh -p 10198 homepage@jump.jianke-yu.online "/home/homepage/deploy_homepage.sh"
