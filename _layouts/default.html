@@ -1,0 +1,44 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+    
+    <footer style="text-align: center; font-size: 12px; color: #999;">
+<!--     <p>
+      本网站由
+      <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" style="color: #666;">
+        <img src="images/又拍云_logo5.png" alt="又拍云 Logo" style="height: 20px; margin-left: 5px;" />
+      </a>
+      提供CDN加速/云存储服务
+    </p> -->
+      
+    <p><a href="https://beian.miit.gov.cn/" target="_blank" style="color: #666;">粤ICP备12345678号</a></p>
+    </footer>
+    {% include scripts.html %}
+
+  </body>
+</html>

@@ -1,0 +1,50 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**'
+      - '_config.yml'
+      - '**.html'
+      - '**.md'
+      - 'assets/**'
+      - 'Gemfile*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'  # 可根据你的Jekyll版本需要更改
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: |
+          cp README.md _pages/about.md
+          bundle exec jekyll build
+
+      - name: Archive generated files
+        run: tar -czf homepage.tar.gz -C _site .
+
+      - name: Deploy to server
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -p 302 -t rsa jump.jianke-yu.online >> ~/.ssh/known_hosts
+          scp -P 302 homepage.tar.gz homepage@jump.jianke-yu.online:/home/homepage
+          ssh -p 302 homepage@jump.jianke-yu.online "/home/homepage/deploy_homepage.sh"
