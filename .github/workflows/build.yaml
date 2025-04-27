@@ -38,10 +38,8 @@ jobs:
       
       - name: Archive generated files
         run: |
-          cd _site
           ls
-          tar -czf ../homepage.tar.gz .
-          cd ..
+          tar -czf homepage.tar.gz -C _site .
 
       - name: Deploy to server
         env:
