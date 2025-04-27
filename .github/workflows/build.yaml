@@ -35,9 +35,11 @@ jobs:
           mkdir -p _pages
           cp README.md _pages/about.md
           bundle exec jekyll build
-
+      
       - name: Archive generated files
-        run: tar -czf homepage.tar.gz -C _site .
+        run: |
+          cd _site
+          tar -czf ../homepage.tar.gz .
 
       - name: Deploy to server
         env:
