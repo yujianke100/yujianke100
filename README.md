@@ -44,6 +44,31 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 <br/>  
 
+# 🏆 Honors & Awards
+
+## Scholarships
+- **UTS ARC Discovery Project Scholarship**, 2023 (Full Scholarship)
+- **UTS International Research Scholarship**, 2023
+
+## Competition Awards
+- **Excellent Practical Achievement Award for Professional Master Students**, Zhejiang Province, 2022 (2022年浙江省专业学位研究生优秀实践成果奖)
+- **Second Prize**, 4th Zhejiang Province University Student Robotics Competition (浙江省第四届大学生机器人竞赛 二等奖)
+- **Second Prize**, 4th "Internet+" Innovation and Entrepreneurship Competition, Zhejiang Gongshang University (浙江工商大学第四届“互联网+”创新创业大赛 二等奖)
+
+<br/>
+
+# 👨‍🏫 Teaching & Academic Services
+
+## Teaching Assistant/Invited Lecturer
+- **Invited Lecturer**, UTS 41041 Emerging Topic in AI, Spring 2025
+- **Teaching Assistant**, UNSW COMP9311 Database Systems, Term 3 2023
+- **Teaching Assistant**, UNSW DATA1001 Intro Data Science, Term 2 2024 & Term 2 2025
+
+## Academic Services
+- **Platform Administrator**, Research Computing Platform, Prof. Ying Zhang & Prof. Xiaoyang Wang’s Team, Zhejiang Gongshang University (科研算力平台运维/管理员)
+
+<br/>
+
 # 🔗 Mini Programs for Research
 
 - [COI Checker](https://coi.jianke-yu.online/)
