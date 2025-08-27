@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Current Status"
-    url: "/#-current-status"
+    url: "/#current-status"
 
   - title: "Publications"
     url: "/#-publications"
@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Honors & Awards"
-    url: "/#-honors-awards"
+    url: "/#honors-awards"
 
   - title: "Teaching & Academic Services"
-    url: "/#-teaching-academic-services"
+    url: "/#teaching-academic-services"
