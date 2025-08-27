@@ -59,7 +59,7 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 # 👨‍🏫 Teaching & Academic Services
 
-## Teaching Assistant/Invited Lecturer
+## Invited Lecturer/Teaching Assistant
 - **Invited Lecturer**, UTS 41041 Emerging Topic in AI, Spring 2025
 - **Teaching Assistant**, UNSW COMP9311 Database Systems, Term 3 2023
 - **Teaching Assistant**, UNSW DATA1001 Intro Data Science, Term 2 2024 & Term 2 2025
