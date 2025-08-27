@@ -11,7 +11,9 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 <br/>  
 
-# 🔥 News
+<span class='anchor' id='current-status'></span>
+
+# 🧑‍💻 Current Status
 - 🏫 I’m currently studying at University of Technology Sydney as a Ph.D. student.  
   
 
@@ -44,6 +46,8 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 <br/>  
 
+<span class='anchor' id='honors-awards'></span>
+
 # 🏆 Honors & Awards
 
 ## Scholarships
@@ -56,6 +60,8 @@ My research focuses on developing machine learning algorithms for graph-structur
 - **Second Prize**, 4th "Internet+" Innovation and Entrepreneurship Competition, Zhejiang Gongshang University (浙江工商大学第四届“互联网+”创新创业大赛 二等奖)
 
 <br/>
+
+<span class='anchor' id='teaching-academic-services'></span>
 
 # 👨‍🏫 Teaching & Academic Services
 
