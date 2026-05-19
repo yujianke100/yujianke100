@@ -24,6 +24,8 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 # 📝 Publications 
 
+- [[TKDE 2026] MGDN: A Graph of Graphs Neural Network for Malware Detection](https://ieeexplore.ieee.org/abstract/document/11501758/)
+
 - [[TKDE 2024] Temporal Insights for Group-Based Fraud Detection on e-Commerce Platforms](https://ieeexplore.ieee.org/document/10740556/)
 
 - [[KDD 2023] Group-based Fraud Detection Network on e-Commerce Platforms](https://dl.acm.org/doi/10.1145/3580305.3599836)
