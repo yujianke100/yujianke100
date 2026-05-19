@@ -53,6 +53,7 @@ My research focuses on developing machine learning algorithms for graph-structur
 # 🏆 Honors & Awards
 
 ## Scholarships
+- **UTS FEIT HDR Excellence Award - Individual Category**, 2025
 - **UTS ARC Discovery Project Scholarship**, 2023 (Full Scholarship)
 - **UTS International Research Scholarship**, 2023
 
@@ -74,6 +75,7 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 ## Academic Services
 - **Platform Administrator**, Research Computing Platform, Prof. Ying Zhang & Prof. Xiaoyang Wang’s Team, Zhejiang Gongshang University (科研算力平台运维/管理员)
+- **2025 IEEE Transactions on Knowledge and Data Engineering Peer Reviewer**
 
 <br/>
 
