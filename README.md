@@ -17,7 +17,7 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 - 💻I'm currently interning at Token Foundry, Alibaba Token Hub.
 
-- 🏫 I'm currently studying at University of Technology Sydney as a research assistant and a Ph.D. student.  
+- 🏫 I'm currently working and studying at University of Technology Sydney as a research assistant and a Ph.D. student.  
   
 - 📚 I'm currently researching Graph Neural Networks.  
   
