@@ -5,7 +5,7 @@
   
 🎓 [My Google Scholar Homepage](https://scholar.google.com/citations?user=EwomMksAAAAJ)  
 
-I am currently a Ph.D. student at University of Technology Sydney, under the supervision of Prof. Ying Zhang and A/Prof. Lu Qin.
+I am currently a research assistant and a Ph.D. student at University of Technology Sydney, under the supervision of Prof. Ying Zhang and A/Prof. Lu Qin.
 I hold both my Bachelor's and Master's degrees from Zhejiang Gongshang University. My Master's degree was completed under the supervision of Prof. Xiaoyang Wang.
 My research focuses on developing machine learning algorithms for graph-structured data and database systems, including developing graph neural network architectures and applying machine learning techniques to improve the algorithms in the database domain.
 
@@ -14,10 +14,12 @@ My research focuses on developing machine learning algorithms for graph-structur
 <span class='anchor' id='current-status'></span>
 
 # 🧑‍💻 Current Status
-- 🏫 I’m currently studying at University of Technology Sydney as a Ph.D. student.  
-  
 
-- 📚 I’m currently researching Graph Neural Networks.  
+- 💻I'm currently interning at Token Foundry, Alibaba Token Hub.
+
+- 🏫 I'm currently studying at University of Technology Sydney as a research assistant and a Ph.D. student.  
+  
+- 📚 I'm currently researching Graph Neural Networks.  
   
 
 <br/>  
@@ -36,8 +38,9 @@ My research focuses on developing machine learning algorithms for graph-structur
 <br/>   
 
 # 💻 Internships
-- *2021.11.18 - 2022.03.31*, Taobao, Alibaba Group, Hangzhou, China.
+- *2025.12.11 - *, Token Foundry, Alibaba Group, Hangzhou, China.
 - *2022.07.18 - 2023.4.28*, DAMO Academy/Alibaba Cloud, Alibaba Group, Hangzhou, China.
+- *2021.11.18 - 2022.03.31*, Taobao, Alibaba Group, Hangzhou, China.
 
 <br/>   
 
@@ -53,6 +56,7 @@ My research focuses on developing machine learning algorithms for graph-structur
 # 🏆 Honors & Awards
 
 ## Scholarships
+- **2025-2026 Award for Outstanding Overseas Study Elite**, 2026
 - **UTS FEIT HDR Excellence Award - Individual Category**, 2025
 - **UTS ARC Discovery Project Scholarship**, 2023 (Full Scholarship)
 - **UTS International Research Scholarship**, 2023
