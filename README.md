@@ -38,7 +38,7 @@ My research focuses on developing machine learning algorithms for graph-structur
 <br/>   
 
 # 💻 Internships
-- *2025.12.11 - *, Token Foundry, Alibaba Group, Hangzhou, China.
+- *2025.12.11 -*, Token Foundry, Alibaba Group, Hangzhou, China.
 - *2022.07.18 - 2023.4.28*, DAMO Academy/Alibaba Cloud, Alibaba Group, Hangzhou, China.
 - *2021.11.18 - 2022.03.31*, Taobao, Alibaba Group, Hangzhou, China.
 
