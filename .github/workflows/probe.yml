@@ -1,0 +1,12 @@
+name: probe
+
+on:
+  push:
+    branches: ['main']
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say hello
+        run: echo "工作流已被触发"
