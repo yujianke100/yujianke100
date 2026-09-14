@@ -1,0 +1,13 @@
+# 手工补充的论文：已被接收/发表但 OpenAlex 还没收录的（同步脚本每次会自动合并）。
+# 一旦 OpenAlex 收录同一标题，云端记录优先（按标题去重），这里可留着也可以删。
+#
+# 字段：title / venue / year / date / authors（用 me 表示本人）/ doi / arxiv / cited_by / note
+
+papers:
+  - title: "SARL: A Scalable Attribute-Informed Representation Learning Framework for Bipartite Graphs"
+    venue: "IEEE Transactions on Knowledge and Data Engineering"
+    year: 2026
+    date: 2026-09-13
+    authors: [me, Hanchen Wang, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xijuan Liu]
+    cited_by: 0
+    note: "accepted by IEEE TKDE, 2026-09-13（来源：Hanchen Wang 主页 News）；OpenAlex 尚未收录"

@@ -1,0 +1,49 @@
+name: Update publications in profile README
+
+# 每天从 OpenAlex(ORCID) 拉取论文，更新 README 里的 Publications 区块（自动生成，勿手改）。
+# 用仓库自带的 GITHUB_TOKEN 提交，不需要任何额外 secret。
+
+on:
+  schedule:
+    - cron: "0 23 * * *"   # 每天 23:00 UTC = 北京时间次日 07:00
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/**'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-publications
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install pyyaml
+
+      - name: Update README publications block
+        run: python scripts/update_publications.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "yujianke100"
+          git config user.email "yujianke100@gmail.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "论文列表无变化"
+          else
+            git commit -m "chore: 自动同步论文列表（OpenAlex/ORCID）"
+            git push
+          fi

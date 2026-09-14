@@ -1,0 +1,151 @@
+# 论文页徽章（CCF / 中科院分区 / JCR）的唯一数据源
+#
+# 数据来源（均在 2026-09-14 核对）：
+#   ccf : CCF 2026 推荐国际学术会议和期刊目录
+#         - 官方 CSV: ShowJCR/中科院分区表及JCR原始数据文件/CCF2026-UTF8.csv（682 条）
+#         - 另与 ccf.atom.im 全量目录交叉验证（386 会议 / 295 期刊），两处一致
+#   cas : 中科院文献情报中心期刊分区表（升级版）2025 —— FQBJCR2025-UTF8.csv
+#         字段为「大类分区 [排名]」「Top」，小类分区见备注
+#   jcr : Journal Citation Reports 2025 —— JCR2025-UTF8.csv
+#         jcr 字段记录**主类别（CSV 中第一个类别）**的四分位；全部分类别见 remarks
+#
+# 只填有据可查的值；不确定的一律留 null（徽章宁缺毋错）。
+
+meta:
+  ccf_source: "CCF2026-UTF8.csv（ShowJCR 原始数据）+ ccf.atom.im 全量目录，双源一致"
+  cas_source: "FQBJCR2025-UTF8.csv（中科院分区表升级版 2025）"
+  jcr_source: "JCR2025-UTF8.csv（JCR 2025，IF 与四分位）"
+
+# 规范场馆名 -> 等级。解析顺序：精确匹配 > aliases 正则 > 子串匹配
+venues:
+  # ---------- 期刊 ----------
+  "IEEE Transactions on Knowledge and Data Engineering":
+    abbr: TKDE
+    kind: journal
+    ccf: A
+    cas: 1
+    cas_top: true
+    jcr: Q1
+    jif: 11.6
+    remarks: "中科院: 计算机科学 1区 [43/758] Top；小类 IS 1区[12/249], AI 2区[19/196], EE 2区[29/352]；JCR: AI Q1[16/210], IS Q1[6/266], EE Q1[12/369]"
+
+  "ACM SIGMOD Conference":
+    abbr: SIGMOD
+    kind: conference
+    ccf: A
+    remarks: "CCF 目录中为 ACM SIGMOD Conference (A类会议)。论文实际发表在 SIGMOD 的 proceedings 期刊 Proceedings of the ACM on Management of Data (PACMMOD) 上——SIGMOD 已全面转为该期刊发表，故按会议呈现"
+
+  "Data Science and Engineering":
+    abbr: DSE
+    kind: journal
+    ccf: B
+    cas: 1
+    cas_top: true
+    jcr: Q2
+    jif: 4.1
+    remarks: "中科院: 计算机科学 1区 [52/758] Top(ESCI)；小类 IS 1区[18/249], T&M 1区[11/143]；JCR: IS Q2[103/266], T&M Q1[35/146]"
+
+  "Information Sciences":
+    abbr: Inf. Sci.
+    kind: journal
+    ccf: B
+    cas: 2
+    cas_top: false
+    jcr: Q1
+    jif: 6.0
+    remarks: "中科院: 计算机科学 2区 [81/758]；小类 IS 2区[28/249]；JCR: IS Q1[49/266]。注意：2025 表中 WoS 标记为 SCIESuppressed"
+
+  "World Wide Web":
+    abbr: WWWJ
+    kind: journal
+    ccf: B
+    cas: 4
+    cas_top: false
+    jcr: Q2
+    jif: 4.5
+    remarks: "Springer, ISSN 1386-145X；官方 CCF 名 World Wide Web-Internet and Web Information Systems (B类)；中科院: 计算机科学 4区[Top否]，小类 IS 4区, SE 4区；JCR: IS Q2[91/266], SE Q1[30/128]"
+
+  # ---------- 会议 ----------
+  "ACM SIGKDD Conference on Knowledge Discovery and Data Mining":
+    abbr: KDD
+    kind: conference
+    ccf: A
+  "IEEE International Conference on Data Engineering":
+    abbr: ICDE
+    kind: conference
+    ccf: A
+  "The Web Conference":
+    abbr: WWW
+    kind: conference
+    ccf: A
+  "International Conference on Database Systems for Advanced Applications":
+    abbr: DASFAA
+    kind: conference
+    ccf: B
+  "International Conference on Advanced Data Mining and Applications":
+    abbr: ADMA
+    kind: conference
+    ccf: C
+  "Pacific-Asia Conference on Knowledge Discovery and Data Mining":
+    abbr: PAKDD
+    kind: conference
+    ccf: C
+  "Asia Pacific Web Conference (APWeb-WAIM)":
+    abbr: APWeb-WAIM
+    kind: conference
+    ccf: C
+  "IEEE International Conference on High Performance Computing and Communications":
+    abbr: HPCC
+    kind: conference
+    ccf: C
+
+  # ---------- 未列入 CCF 目录（目录全量检索确认无此条） ----------
+  "Australasian Database Conference":
+    abbr: ADC
+    kind: conference
+    ccf: null
+  "FLINS-ISKE":
+    abbr: FLINS-ISKE
+    kind: conference
+    ccf: null
+    note: "17th International FLINS Conference + 21st ISKE，LNCS 出版，2026 Sydney"
+
+  # ---------- 预印本 ----------
+  "arXiv":
+    abbr: arXiv
+    kind: preprint
+    ccf: null
+
+# 原始字符串（OpenAlex 的 source 名 / Crossref 的 container-title 与 event 名）
+# -> 规范场馆名。**顺序敏感**：先出现的规则优先（具体规则在前，泛化规则在后）
+aliases:
+  - pattern: "SIGKDD|Proceedings of the \\d+(st|nd|rd|th) ACM SIGKDD"
+    venue: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
+  - pattern: "International Conference on Data Engineering"
+    venue: "IEEE International Conference on Data Engineering"
+  - pattern: "The Web Conference|International World Wide Web Conference"
+    venue: "The Web Conference"
+  - pattern: "Advanced Data Mining and Applications"
+    venue: "International Conference on Advanced Data Mining and Applications"
+  - pattern: "Advances in Knowledge Discovery and Data Mining|Pacific-Asia Conference on Knowledge Discovery"
+    venue: "Pacific-Asia Conference on Knowledge Discovery and Data Mining"
+  - pattern: "Web and Big Data"
+    venue: "Asia Pacific Web Conference (APWeb-WAIM)"
+  - pattern: "Databases Theory and Applications"
+    venue: "Australasian Database Conference"
+  - pattern: "Machine Learning and Knowledge Engineering"
+    venue: "FLINS-ISKE"
+  - pattern: "High Performance Computing.{0,20}Communications|HPCC"
+    venue: "IEEE International Conference on High Performance Computing and Communications"
+  - pattern: "Knowledge and Data Engineering"
+    venue: "IEEE Transactions on Knowledge and Data Engineering"
+  - pattern: "Proceedings of the ACM on Management of Data|PACMMOD|Management of Data"
+    venue: "ACM SIGMOD Conference"
+  - pattern: "^Data Science and Engineering"
+    venue: "Data Science and Engineering"
+  - pattern: "^Information Sciences"
+    venue: "Information Sciences"
+  - pattern: "^World Wide Web"
+    venue: "World Wide Web"
+  - pattern: "arXiv|Cornell University|CoRR"
+    venue: "arXiv"

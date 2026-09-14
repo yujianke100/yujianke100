@@ -26,13 +26,24 @@ My research focuses on developing machine learning algorithms for graph-structur
 
 # 📝 Publications 
 
-- [[TKDE 2026] MGDN: A Graph of Graphs Neural Network for Malware Detection](https://ieeexplore.ieee.org/abstract/document/11501758/)
+<!-- PUBLICATIONS:START -->
+<!-- 本区块由 scripts/update_publications.py 自动生成，请勿手工编辑 -->
+- **[TKDE 2026]** SARL: A Scalable Attribute-Informed Representation Learning Framework for Bipartite Graphs · *⭐ first author · CCF-A · CAS Zone 1 Top · JCR Q1*
+- **[FLINS-ISKE 2026]** [Mining Discriminative Salient Objects with Optimal Transport for Few-Shot Image Classification](https://doi.org/10.1007/978-981-92-2487-6_25)
+- **[TKDE 2026]** [MGDN: A Graph of Graphs Neural Network for Malware Detection](https://doi.org/10.1109/tkde.2026.3689176) · *⭐ first author · CCF-A · CAS Zone 1 Top · JCR Q1*
+- **[arXiv 2026]** [A Hypergraph-Based Framework for Exploratory Business Intelligence](https://doi.org/10.48550/arxiv.2603.10625)
+- **[Inf. Sci. 2026]** [Finding critical users in social networks with reinforcement learning](https://doi.org/10.1016/j.ins.2026.123228) · *CCF-B · CAS Zone 2 · JCR Q1*
+- **[ADMA 2025]** [AEFA: An Ensemble Framework for Fraud Detection in the Forex Market](https://doi.org/10.1007/978-981-95-3459-3_3) · *CCF-C*
+- **[WWWJ 2025]** [RIDA: a robust attack framework on incomplete graphs](https://doi.org/10.1007/s11280-025-01354-y) · *⭐ first author · CCF-B · CAS Zone 4 · JCR Q2*
+- **[DSE 2025]** [IGFM: An Enhanced Graph Similarity Computation Method with Fine-Grained Analysis](https://doi.org/10.1007/s41019-024-00278-3) · *CCF-B · CAS Zone 1 Top · JCR Q2*
+- **[SIGMOD 2025]** [Deep Overlapping Community Search via Subspace Embedding](https://doi.org/10.1145/3709678) · *CCF-A*
+- **[PAKDD 2025]** [RPDN: An Effective Rating Pollution Attacks Detection Framework for Recommendation Systems](https://doi.org/10.1007/978-981-96-8180-8_29) · *CCF-C*
+- **[TKDE 2024]** [Temporal Insights for Group-Based Fraud Detection on e-Commerce Platforms](https://doi.org/10.1109/tkde.2024.3485127) · *⭐ first author · CCF-A · CAS Zone 1 Top · JCR Q1*
+- **[ICDE 2024]** [Neural Similarity Search on Supergraph Containment (Extended Abstract)](https://doi.org/10.1109/icde60146.2024.00486) · *CCF-A*
 
-- [[TKDE 2024] Temporal Insights for Group-Based Fraud Detection on e-Commerce Platforms](https://ieeexplore.ieee.org/document/10740556/)
+> 🤖 每日自动同步（OpenAlex/ORCID）· [完整列表与分区徽章](https://jianke-yu.online/publications/)
+<!-- PUBLICATIONS:END -->
 
-- [[KDD 2023] Group-based Fraud Detection Network on e-Commerce Platforms](https://dl.acm.org/doi/10.1145/3580305.3599836)
-
-- [[TKDE 2023] Neural Similarity Search on Supergraph Containment](https://ieeexplore.ieee.org/abstract/document/10135129)
 
   
 <br/>   
