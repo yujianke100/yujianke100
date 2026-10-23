@@ -49,14 +49,14 @@ My research focuses on developing machine learning algorithms for graph-structur
 <br/>   
 
 # 💻 Internships
-- *2025.12.11 -*, Token Foundry, Alibaba Group, Hangzhou, China.
+- *2025.12.11 - 2026.10.15*, Token Foundry, Alibaba Group, Hangzhou, China.
 - *2022.07.18 - 2023.4.28*, DAMO Academy/Alibaba Cloud, Alibaba Group, Hangzhou, China.
 - *2021.11.18 - 2022.03.31*, Taobao, Alibaba Group, Hangzhou, China.
 
 <br/>   
 
 # 📖 Educations
-- *2023.07 - (now)*, Ph.D., Information Technology, University of Technology Sydney, Sydney, Australia.
+- *2023.07 - 2026.09*, Ph.D., Information Technology, University of Technology Sydney, Sydney, Australia.
 - *2020.09 - 2023.06*, M.Eng., Electronic Information, Zhejiang Gongshang University, Hangzhou, China.
 - *2016.09 - 2020.06*, B.Eng., Electronic Information Engineering, Zhejiang Gongshang University, Hangzhou, China. 
 
