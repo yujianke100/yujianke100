@@ -34,12 +34,12 @@ My research focuses on developing machine learning algorithms for graph-structur
 - **[arXiv 2026]** [A Hypergraph-Based Framework for Exploratory Business Intelligence](https://doi.org/10.48550/arxiv.2603.10625)
 - **[Inf. Sci. 2026]** [Finding critical users in social networks with reinforcement learning](https://doi.org/10.1016/j.ins.2026.123228) · *CCF-B · CAS Zone 2 · JCR Q1*
 - **[ADMA 2025]** [AEFA: An Ensemble Framework for Fraud Detection in the Forex Market](https://doi.org/10.1007/978-981-95-3459-3_3) · *CCF-C*
+- **[PAKDD 2025]** [RPDN: An Effective Rating Pollution Attacks Detection Framework for Recommendation Systems](https://doi.org/10.1007/978-981-96-8180-8_29) · *CCF-C*
 - **[WWWJ 2025]** [RIDA: a robust attack framework on incomplete graphs](https://doi.org/10.1007/s11280-025-01354-y) · *⭐ first author · CCF-B · CAS Zone 4 · JCR Q2*
 - **[DSE 2025]** [IGFM: An Enhanced Graph Similarity Computation Method with Fine-Grained Analysis](https://doi.org/10.1007/s41019-024-00278-3) · *CCF-B · CAS Zone 1 Top · JCR Q2*
 - **[SIGMOD 2025]** [Deep Overlapping Community Search via Subspace Embedding](https://doi.org/10.1145/3709678) · *CCF-A*
-- **[PAKDD 2025]** [RPDN: An Effective Rating Pollution Attacks Detection Framework for Recommendation Systems](https://doi.org/10.1007/978-981-96-8180-8_29) · *CCF-C*
 - **[TKDE 2024]** [Temporal Insights for Group-Based Fraud Detection on e-Commerce Platforms](https://doi.org/10.1109/tkde.2024.3485127) · *⭐ first author · CCF-A · CAS Zone 1 Top · JCR Q1*
-- **[ICDE 2024]** [Neural Similarity Search on Supergraph Containment (Extended Abstract)](https://doi.org/10.1109/icde60146.2024.00486) · *CCF-A*
+- **[APWeb-WAIM 2024]** [SBGMN: A Multi-view Sign Prediction Network for Bipartite Graphs](https://doi.org/10.1007/978-981-97-7238-4_6) · *CCF-C*
 
 > 🤖 每日自动同步（OpenAlex/ORCID）· [完整列表与分区徽章](https://jianke-yu.online/publications/)
 <!-- PUBLICATIONS:END -->
